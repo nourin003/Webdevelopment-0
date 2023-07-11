@@ -80,6 +80,7 @@ margin-left: 200px;
   margin-right:100px ;
   margin-left: 100px;
   display: flex;
+  
 }
 
 
@@ -102,4 +103,10 @@ margin-left: 200px;
     height:260px;
     margin: 50px;
     background-color: rgb(229, 251, 243);
+}
+figcaption{
+    text-align: center;
+    padding: 2px;
+    margin: 0px;
+    text-decoration: underline;
 }
