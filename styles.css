@@ -202,11 +202,11 @@ margin-left: 100px;
     text-decoration:none;   
 }
 
-.google-photo{
+.flower-photo{
     justify-content:space-around;
-    align-items: center;
+   align-items: center;
     margin-top:20px ;
     margin-right:200px ;
-    margin-left: 200px;
+    margin-left: 350px;
     display: flex;   
 }
