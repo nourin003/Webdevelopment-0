@@ -25,6 +25,7 @@ margin: 50px;
     color: #757575;
     margin-top: 5px;
     margin-bottom: 5px;
+    
 }
 .container-btn{
     padding: 15px 24px;
@@ -38,7 +39,8 @@ margin: 50px;
 }
 .container-img{
     width: 500px;
-    height: 600px;    
+    height: 600px;
+    ;    
 }
 .feature{
     
@@ -47,11 +49,11 @@ margin: 50px;
     
 }
 .feature-description{
-padding-right:200px ;
+padding-right:0px ;
 padding-left:200px ;
 margin-top: 100px;
 margin-right: 100px;
-margin-left: 200px;
+margin-left: 500px;
 }
 .feature-title{
     align-items:center;
@@ -131,7 +133,7 @@ figcaption{
    
 }
 .container-deal-text{
-    margin-left: 180px;
+    margin-left: 400px;
 }
 .container-deal-heading{
     font-size: 30px;
@@ -167,7 +169,7 @@ margin-left: 100px;
 .container-deal-photo{
     width: 230px;
     height:280px;
-    margin-right: 300px;
+    margin-right: 500px;
     ;
 }
 .google{
@@ -180,11 +182,11 @@ margin-left: 100px;
     padding-left:200px ;
     margin-top: 0px;
     margin-right: 100px;
-    margin-left: 200px;   
+    margin-left: 500px;   
 }
 .google-description-heading{
     align-items:center;
-    margin-left: 150px;
+    margin-left: 250px;
     margin-right:150px ;
     font-size: 35px;
     margin-bottom: 10px;
@@ -193,7 +195,7 @@ margin-left: 100px;
 .google-description-text{
     font-size: 16px;
     margin-right: 150px ;
-    margin-left: 150px;
+    margin-left: 250px;
     color: #757575;
     margin-top: 15px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;   
@@ -206,7 +208,27 @@ margin-left: 100px;
     justify-content:space-around;
    align-items: center;
     margin-top:20px ;
-    margin-right:200px ;
-    margin-left: 350px;
+    margin-right:380px ;
+    margin-left: 100px;
     display: flex;   
+}
+#photo-1{
+    width: 230px;
+    height:260px;
+    margin: 50px; 
+}
+#photo-2{
+    width: 230px;
+    height:260px;
+    margin: 50px;
+}
+#photo-3{
+    width: 230px;
+    height:260px;
+    margin: 50px;
+}
+#photo-4{
+     width: 230px;
+    height:260px;
+    margin: 50px;
 }
