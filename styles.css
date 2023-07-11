@@ -39,7 +39,7 @@ margin: 50px;
     width: 500px;
     height: 600px;    
 }
-.feature-a{
+.feature{
     justify-content: center;
    height:500px ; 
   
@@ -54,14 +54,14 @@ margin-left: 200px;
 
 
 }
-.feature-a-title{
+.feature-title{
     align-items:center;
     margin-left: 150px;
     font-size: 35px;
     margin-bottom: 10px;
     
 }
-.feature-a-para{
+.feature-para{
     font-size: 12px;
     margin-right: 150px ;
     margin-left: 40px;
@@ -77,8 +77,8 @@ margin-left: 200px;
   justify-content: space-around;
   align-items: center;
   margin-top:10px ;
-  margin-right:100px ;
-  margin-left: 100px;
+  margin-right:200px ;
+  margin-left: 200px;
   display: flex;
   
 }
@@ -89,6 +89,7 @@ margin-left: 200px;
     height:260px;
     margin: 50px;
     background-color: rgb(249, 212, 224);
+    border-radius: 10%;
     
     
 }
@@ -97,12 +98,16 @@ margin-left: 200px;
     height:260px;
     margin: 50px;
     background-color: rgb(229, 249, 249);
+    border-radius: 10%;
+    
 }
 #img-c{
     width: 230px;
     height:260px;
     margin: 50px;
     background-color: rgb(229, 251, 243);
+    border-radius: 10%;
+    
 }
 figcaption{
     text-align: center;
